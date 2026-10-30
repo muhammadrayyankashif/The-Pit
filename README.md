@@ -2,6 +2,8 @@
 
 A survival game built with TypeScript, Phaser 3, and Vite. The objective is to survive as long as possible against waves of enemies.
 
+**[Play The Pit on itch.io](https://muhammadrayyan.itch.io/the-pit)**
+
 ## Run locally
 
 ```sh
